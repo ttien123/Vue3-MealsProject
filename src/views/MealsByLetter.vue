@@ -1,4 +1,4 @@
 <template>
-    <div>Meal List</div>
+    <div>By Letter</div>
 </template>
 <script setup></script>
